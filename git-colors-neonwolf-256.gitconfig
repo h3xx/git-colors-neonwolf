@@ -44,7 +44,7 @@
 	HEAD		= bold 81 235
 	branch		= bold 121 235
 	remoteBranch	= bold 222 235
-	tag		= bold 222 235
+	tag		= bold 166 235
 
 [color "branch"]
 	current		= bold 121 235
