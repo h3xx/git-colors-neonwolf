@@ -50,7 +50,7 @@
 	current		= bold 121 235
 	local		= bold 81 235
 	remote		= bold 222 235
-	upstream	= bold 232 222
+	upstream	= bold 222 235
 	plain		= 255
 
 # vi: ft=gitconfig
