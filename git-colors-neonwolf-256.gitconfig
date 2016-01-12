@@ -53,4 +53,10 @@
 	upstream	= bold 222 235
 	plain		= 255
 
+[color "interactive"]
+	prompt		= bold 121 235
+	header		= bold 165 235
+	help		= bold 222 235
+	error		= bold 196 235
+
 # vi: ft=gitconfig
