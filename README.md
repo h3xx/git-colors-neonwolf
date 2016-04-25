@@ -2,7 +2,7 @@
 
 This is a high-contrast, dark colorscheme for git that was inspired by the badwolf series of color schemes.
 
-![sample](https://raw.githubusercontent.com/h3xx/git-colors-neonwolf/master/screenshots/status.png)
+![sample](/../flair/screenshots/status.png)
 
 ## Installation
 
