@@ -7,56 +7,56 @@
 # Recommended additions to make this work:
 #
 #[core]
-#	pager		= less -R	# handle colors correctly
+#   pager           = less -R       # handle colors correctly
 #
 #[color]
-#	branch		= auto
-#	diff		= auto
-#	interactive	= auto
-#	ui		= auto
+#   branch          = auto
+#   diff            = auto
+#   interactive     = auto
+#   ui              = auto
 
 [color "diff"]
-	frag		= bold 165 235
-	meta		= bold 39 235
-	old		= bold 196 235
-	new		= bold 154 235
-	commit		= bold 232 154
-	func		= bold 222 235
+    frag            = bold 165 235
+    meta            = bold 39 235
+    old             = bold 196 235
+    new             = bold 154 235
+    commit          = bold 232 154
+    func            = bold 222 235
 
 [color "grep"]
-	linenumber	= bold 165 235
-	filename	= bold 39 235
-	separator	= bold 82 235
-	function	= bold 222
-	selected	= bold 255 235
-	context		= 240
-	match		= bold 154 235
-	#matchContext	= ? # matching text in context lines
-	#matchSelected	= ? # matching text in selected lines
+    linenumber      = bold 165 235
+    filename        = bold 39 235
+    separator       = bold 82 235
+    function        = bold 222
+    selected        = bold 255 235
+    context         = 240
+    match           = bold 154 235
+    #matchContext   = ? # matching text in context lines
+    #matchSelected  = ? # matching text in selected lines
 
 [color "status"]
-	added		= bold 154 235
-	changed		= bold 166 235
-	untracked	= bold 81 235
-	unmerged	= bold 196 235
+    added           = bold 154 235
+    changed         = bold 166 235
+    untracked       = bold 81 235
+    unmerged        = bold 196 235
 
 [color "decorate"]
-	HEAD		= bold 81 235
-	branch		= bold 121 235
-	remoteBranch	= bold 222 235
-	tag		= bold 166 235
+    HEAD            = bold 81 235
+    branch          = bold 121 235
+    remoteBranch    = bold 222 235
+    tag             = bold 166 235
 
 [color "branch"]
-	current		= bold 121 235
-	local		= bold 81 235
-	remote		= bold 222 235
-	upstream	= bold 222 235
-	plain		= 255
+    current         = bold 121 235
+    local           = bold 81 235
+    remote          = bold 222 235
+    upstream        = bold 222 235
+    plain           = 255
 
 [color "interactive"]
-	prompt		= bold 121 235
-	header		= bold 165 235
-	help		= bold 222 235
-	error		= bold 196 235
+    prompt          = bold 121 235
+    header          = bold 165 235
+    help            = bold 222 235
+    error           = bold 196 235
 
-# vi: ft=gitconfig
+# vi: ft=gitconfig ts=8 sts=8 sw=4 et
