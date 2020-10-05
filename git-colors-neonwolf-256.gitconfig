@@ -39,6 +39,9 @@
     changed         = bold 166 235
     untracked       = bold 81 235
     unmerged        = bold 196 235
+    localBranch     = bold 121 235
+    remoteBranch    = bold 222 235
+    noBranch        = bold 222 235
 
 [color "decorate"]
     HEAD            = bold 81 235
