@@ -62,4 +62,10 @@
     help            = bold 222 235
     error           = bold 196 235
 
+[color "push"]
+    error           = bold 196 235
+
+[color "transport"]
+    rejected        = bold 196
+
 # vi: ft=gitconfig ts=8 sts=8 sw=4 et
