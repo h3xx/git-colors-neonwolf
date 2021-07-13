@@ -68,4 +68,15 @@
 [color "transport"]
     rejected        = bold 196
 
+[log]
+    graphColors     = \
+        bold 165,\
+        bold 39,\
+        bold 222,\
+        bold 166,\
+        bold 121,\
+        bold 82,\
+        bold 196,\
+        bold 238
+
 # vi: ft=gitconfig ts=8 sts=8 sw=4 et
