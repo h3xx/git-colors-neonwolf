@@ -15,6 +15,9 @@
 #   interactive     = auto
 #   ui              = auto
 
+[color "advice"]
+    hint            = bold 166
+
 [color "diff"]
     frag            = bold 165 235
     meta            = bold 39 235
