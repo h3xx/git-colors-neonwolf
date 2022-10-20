@@ -1,44 +1,16 @@
 # Neonwolf Colorscheme for Git
 
-This is a high-contrast, dark colorscheme for git that was inspired by the badwolf series of color schemes.
+This project has moved to Codeberg:
+https://codeberg.org/h3xx/git-colors-neonwolf
 
-![sample](/../flair/screenshots/status.png)
+# Give Up GitHub
 
-## Installation
+This project has given up GitHub. ([See Software Freedom Conservancy's *Give Up GitHub* site for details](https://giveupgithub.org).)
 
-Include it as part of your `~/.gitconfig` file.
+You can now find this project at https://codeberg.org/h3xx/git-colors-neonwolf instead.
 
-    $ mkdir -p ~/.gitfiles
-    $ cp git-colors-neonwolf-256.gitconfig ~/.gitfiles
-    $ git config --global include.path .gitfiles/git-colors-neonwolf-256.gitconfig
+Any use of this project's code by GitHub Copilot, past or present, is done without our permission. We do not consent to GitHub's use of this project's code in Copilot.
 
-Or if you're particularly lazy:
+Join us; you can [give up GitHub](https://giveupgithub.org) too!
 
-    $ cat git-colors-neonwolf-256.gitconfig >>~/.gitconfig
-
-This file only defines the colors, you need to turn them on yourself. If colors
-do not show up, you may need to turn them on in your gitconfig:
-
-    $ git config --global color.branch auto
-    $ git config --global color.diff auto
-    $ git config --global color.interactive auto
-    $ git config --global color.ui auto
-    $ git config --global color.pager true
-
-## Contributing
-
-Send me a pull request!
-
-## TODO
-
-Develop a low-color variant.
-
-## License
-
-Copyright (C) 2015-2020 Dan Church.
-
-License: MIT
-
-This is free software: you are free to change and redistribute it.
-
-There is NO WARRANTY, to the extent permitted by law.
+![Logo of the GiveUpGitHub campaign](https://sfconservancy.org/img/GiveUpGitHub.png)
